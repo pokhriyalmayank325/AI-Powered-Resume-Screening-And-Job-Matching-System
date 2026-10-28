@@ -1,0 +1,14 @@
+Machine Learning Engineer
+
+About the role:
+We are looking for an ML engineer with 2+ years of experience to build and ship predictive models.
+
+Requirements:
+- Experience developing ML solutions using Python and Scikit-learn
+- Strong SQL and data analysis skills
+- Experience with Docker and deploying models to AWS
+- Bachelor's degree in Computer Science or related field
+
+Nice to have:
+- Experience with NLP or LLM applications
+- Power BI or Tableau dashboards

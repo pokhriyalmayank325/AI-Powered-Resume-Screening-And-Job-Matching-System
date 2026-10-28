@@ -1,0 +1,25 @@
+Riya Menon
+riya.menon@example.com | +91 98765 43210 | Coimbatore, India
+
+SUMMARY
+Data science graduate with hands-on experience building machine learning models and dashboards.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, Streamlit, Git, Excel
+
+EXPERIENCE
+Data Science Intern, Example Analytics (2024 - 2025)
+- Built machine learning models using Python and Scikit-learn to predict customer churn
+- Created Power BI dashboards for weekly sales reporting
+- Cleaned and analysed large datasets with Pandas and SQL
+
+PROJECTS
+Customer Churn Predictor
+- Developed a classification pipeline with feature engineering and cross-validation
+- Deployed an interactive Streamlit app for non-technical users
+
+EDUCATION
+B.Tech in Computer Science and Engineering, 2020 - 2024
+
+CERTIFICATIONS
+Google Data Analytics Certificate
